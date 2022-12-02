@@ -1,0 +1,22 @@
+{
+  "name": "khadijaautomationpublic",
+  "version": "1.0.0",
+  "description": "## This is my first md file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/khadijasqadev/my-little-repository-public-.git"
+  },
+  "author": "khadija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khadijasqadev/my-little-repository-public-/issues"
+  },
+  "homepage": "https://github.com/khadijasqadev/my-little-repository-public-#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
